@@ -10,4 +10,3 @@ $cadena = "andré llegó tarde";
 //echo $int ."<br>". $real."<br>" . "<br>".$booleana ."<br>". $cadena;
 var_dump($cadena);
 ?>
-
