@@ -8,6 +8,10 @@ $num2 = 33;
 // Aritmeticos
 $resultado = ($num1+$num2);
 echo 'Suma: '.$resultado.'<br>';
+echo 'Resta: '.($num1-$num2).'<br>';
+echo 'Multiplicación: '.($num1*$num2).'<br>';
+echo 'División: '.($num1/$num2).'<br>';
+echo 'Módulo: '.($num1%$num2).'<br>';
 
 // Incromento y Decremento
 // Asignación
