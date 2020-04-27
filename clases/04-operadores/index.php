@@ -14,7 +14,16 @@ echo 'División: '.($num1/$num2).'<br>';
 echo 'Módulo: '.($num1%$num2).'<br>';
 
 // Incromento y Decremento
+$stock = 10000;
+// ++$var,$var++,--$var,$var--
+$stock++;
+echo '<h1>'.$stock.'</h1>';
+$stock--;
+echo '<h1>'.$stock.'</h1>';
+
 // Asignación
-
-
+$edad = 60;
+echo ($edad).'<br>';
+echo ($edad+5);
+echo ($edad).'<br>';
 ?>
